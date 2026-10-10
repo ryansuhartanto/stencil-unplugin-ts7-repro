@@ -1,0 +1,13 @@
+{
+  "name": "stencil-unplugin-ts7-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@stencil/core": "5.0.0-beta.19",
+    "@stencil/unplugin": "5.0.0-beta.19",
+    "typescript": "7.0.2"
+  }
+}
